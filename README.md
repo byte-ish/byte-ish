@@ -1,6 +1,8 @@
 # Hi, I'm Ish
 
-I spent several years working mostly in Java — Spring, Kafka, test automation — and over the last year and a half that's shifted almost entirely to Python, LLMs, and the tooling around running them: agents, evals, RAG pipelines, and the infrastructure decisions that come with putting any of that in production.
+Vice President & Lead Software Engineer at a top global financial services firm. 12+ years building backend systems, microservices, and automation frameworks — the last year and a half of that increasingly spent on AI: wrapping models in production-grade services, and building the eval and testing infrastructure that makes agentic workflows safe to ship.
+
+Background is Java and Python, distributed systems, and test automation at scale, so I still think like an SDET about anything I put into production — what breaks it, how you'd know, how you'd roll it back. That's the lens I bring to AI work too: less "look what the model can do," more "here's how you'd know if it stopped working."
 
 ## What I'm working on
 
@@ -16,6 +18,9 @@ I write up technology decisions as evidence-based comparisons instead of opinion
 - **[Litestar vs FastAPI](https://github.com/byte-ish/litestar-vs-fastapi)** — for production services and agent backends
 - **[Argo Workflows vs Kubeflow Pipelines](https://github.com/byte-ish/argo-workflows-vs-kubeflow-pipelines)** — for ML/MLOps orchestration on Kubernetes
 
-## Elsewhere
+## Background
 
-The rest of this profile is mostly older Java and test-automation work (Spring, Kafka, Wiremock, Serenity) from before the shift. Still here, just not where my time goes now.
+Java, Spring, Kafka, and test automation (Wiremock, Serenity, Mockito) make up most of the rest of this profile — over a decade of it. That foundation is why the AI work above leans toward evals, CI gates, and production concerns rather than notebooks and demos.
+
+---
+Open to connecting with people working on AI engineering, backend/platform systems, or enterprise automation. Views here are my own.
